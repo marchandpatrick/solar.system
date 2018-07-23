@@ -1,6 +1,6 @@
 ## load dependencies
 library(testthat)
-library(codecov.R)
+library(solar.system)
 
 ## test package
-test_check('codecov.R')
+test_check('solar.system')
