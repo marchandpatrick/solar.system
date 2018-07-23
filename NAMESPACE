@@ -2,5 +2,3 @@
 
 export(planetnames)
 export(planetnumbers)
-export(tested)
-export(untested)

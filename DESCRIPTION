@@ -7,5 +7,6 @@ Encoding: UTF-8
 Authors@R:
     person("Asutosh", "Satapathy", , "asa@ase.ch", c("aut", "cre"))
 License: GPL-3
+Imports: covr
 Suggests: testthat
 RoxygenNote: 6.0.1
