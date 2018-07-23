@@ -1,4 +1,4 @@
-# R example repository for codecov.io
+# R example repository
 
 [![Build Status](https://travis-ci.org/mrtyormaa/solar.system.svg?branch=master)](https://travis-ci.org/mrtyormaa/solar.system) [![codecov](https://codecov.io/gh/mrtyormaa/solar.system/branch/master/graph/badge.svg)](https://codecov.io/gh/mrtyormaa/solar.system)
 
