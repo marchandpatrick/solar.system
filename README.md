@@ -1,8 +1,25 @@
 # R example repository for codecov.io
 
-[![Build Status](https://travis-ci.org/mrtyormaa/solar.system.svg?branch=master)](https://travis-ci.org/mrtyormaa/solar.system) [![codecov](https://codecov.io/github/codecov/example-r/branch/master/graphs/badge.svg)](https://codecov.io/gh/mrtyormaa/solar.system) 
+[![Build Status](https://travis-ci.org/mrtyormaa/solar.system.svg?branch=master)](https://travis-ci.org/mrtyormaa/solar.system) [![codecov](https://codecov.io/gh/mrtyormaa/solar.system/branch/master/graph/badge.svg)](https://codecov.io/gh/mrtyormaa/solar.system)
 
-Example of how to integrate your **awesome** [R](http://www.r-project.org/) project with [Codecov.io](https://codecov.io)!
+# Travis CI [BUild Automation]
+
+[Travis CI](https://travis-ci.com) is a hosted continuous integration and
+deployment system. You can now test and deploy open source and private projects
+on [travis-ci.com](https://travis-ci.com)! You can read more about this change 
+[here](https://blog.travis-ci.com/2018-05-02-open-source-projects-on-travis-ci-com-with-github-apps).
+
+This repository contains the [central issue
+tracker](https://github.com/travis-ci/travis-ci/issues) for the Travis CI
+project.
+
+## Documentation
+
+Documentation for the Travis CI project can be found at
+<https://docs.travis-ci.com>.
+
+
+# Code Coverage [Test COverage Report]
 
 ## Using Travis CI
 
@@ -61,6 +78,6 @@ covr::package_coverage(type = "tests")
 ```
 
 
-## Contact
-
-
+# Contact
+Point of contact in case of queries regarding the project
+* [Asutosh Satapathy](https://gitlab.com/mrtyormaa) - asa@ase.ch
