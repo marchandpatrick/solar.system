@@ -1,6 +1,6 @@
 # R example repository for codecov.io
 
-[![Build Status](https://img.shields.io/travis/codecov/example-r/master.svg)](https://travis-ci.org/codecov/example-r) [![codecov](https://codecov.io/github/codecov/example-r/branch/master/graphs/badge.svg)](https://codecov.io/github/codecov/example-r) 
+[![Build Status](https://img.shields.io/travis/codecov/example-r/master.svg)](https://travis-ci.org/mrtyormaa/solar.system) [![codecov](https://codecov.io/github/codecov/example-r/branch/master/graphs/badge.svg)](https://codecov.io/gh/mrtyormaa/solar.system) 
 
 Example of how to integrate your **awesome** [R](http://www.r-project.org/) project with [Codecov.io](https://codecov.io)!
 
