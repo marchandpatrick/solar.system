@@ -7,5 +7,5 @@ os:
   - linux
 R:
   - 3.5
-  after_success:
-    - Rscript -e 'covr::codecov(type="ALL")'
+after_success:
+  - Rscript -e 'covr::codecov(type="ALL")'
