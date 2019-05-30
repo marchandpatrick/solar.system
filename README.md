@@ -1,4 +1,14 @@
+---
+title: "README"
+output:
+  word_document: default
+  html_document: default
+---
+
 # R example repository
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.org/marchandpatrick/solar.system.svg?branch=master)](https://travis-ci.org/marchandpatrick/solar.system)
+<!-- badges: end -->
 
 [![Build Status](https://travis-ci.org/mrtyormaa/solar.system.svg?branch=master)](https://travis-ci.org/mrtyormaa/solar.system) [![codecov](https://codecov.io/gh/mrtyormaa/solar.system/branch/master/graph/badge.svg)](https://codecov.io/gh/mrtyormaa/solar.system)
 
